@@ -1,0 +1,15 @@
+Speaker 1: So, based on this video, how would you define a Solutions Engineer?
+
+Speaker 2: John defines a Solutions Engineer as someone who works with the sales team to ensure that the business wins, as well as the technical side of a deal. Their job is to take the requirements and goals of a customer and demonstrate how the company’s solutions can help them achieve those goals.
+
+Speaker 1: And what does their day-to-day work look like, especially in the early stages with a new client?
+
+Speaker 2: The process starts with a phase called "Discovery," where they have in-depth conversations with the customer to uncover their needs. After that, they configure the solution and then perform a "validation" to show the customer how the platform addresses their specific needs.
+
+Speaker 1: That's interesting. What about the balance between technical and sales work?
+
+Speaker 2: John says the right answer is almost always less technical than you think. He believes that the most important skill is understanding the customer's "why" behind their questions, rather than just showing off technical knowledge.
+
+Speaker 1: And what kind of soft skills do you think are most important for this role?
+
+Speaker 2: John believes that being a "translation layer" between different departments is critical. He suggests that a Solutions Engineer needs to be able to distill technical information for a non-technical audience, and be vulnerable enough to ask questions to ensure everyone is on the same page.

@@ -1,0 +1,72 @@
+Speaker 1: Welcome back to Team Sync. Today we’re unpacking what Solutions Engineering actually looks like day-to-day, and how to run a tight customer engagement without losing sight of the relationships that make deals happen.
+
+Speaker 2: Perfect topic. A lot of folks think Solutions Engineering is just demoing features. In reality, we partner with sales to understand the customer’s why and then prove how our platform meets those needs.
+
+Speaker 3: As someone newer on the IC track, I’d love a practical blueprint. What does a clean engagement look like from first call to signed deal?
+
+Speaker 2: I run it in three phases: Discovery, Scoping, and Validation. Discovery is where we surface goals, constraints, and success criteria. Scoping turns those into a concrete plan. Validation proves value with their data and workflows.
+
+Speaker 1: Let’s drill into Discovery. What do you ask, and how do you keep it from becoming an interrogation?
+
+Speaker 2: I start with their business outcomes: Why now? What changes if this succeeds? Then I ask for the current process, pain points, and measurable North Stars. To keep it human, I build relational capital—ask about team structure, decision makers, risk tolerance. It’s a conversation, not a checklist.
+
+Speaker 3: Where does technical depth fit? I’m tempted to jump into architecture immediately.
+
+Speaker 2: John’s mantra applies: the right answer is often less technical than you think. Early on, I translate between business and tech. We can diagram systems later, but first we nail the why and the measurable what.
+
+Speaker 1: Okay, suppose Discovery is strong. How do you approach Scoping without overpromising?
+
+Speaker 2: I define boundaries up front—what we will validate and what we won’t. I map use cases to capabilities, call out assumptions, dependencies, and timelines. If there’s risk, I deliberately stage it early with a small, high-signal test.
+
+Speaker 3: Do you use a framework for communicating all of this to the customer?
+
+Speaker 2: Yes: Tell Show Tell. First Tell: set context—what we heard in Discovery and what we’ll prove. Show: a focused demo or prototype aligned to their workflow. Final Tell: recap evidence, tie it to their success metrics, and outline next steps.
+
+Speaker 1: Let’s make that concrete. Say the customer wants faster onboarding and fewer manual data fixes. How would the Tell Show Tell look?
+
+Speaker 2: First Tell: “You need to cut onboarding from 14 days to 5 while reducing data QA escalations by 40%.” Show: walk through a sandbox where we ingest their sample data, run automated validations, and trigger review tasks with SLAs. Final Tell: quantify the time saved, map to owners, and confirm the rollout plan.
+
+Speaker 3: Where does Validation formally begin?
+
+Speaker 2: Once scope is approved, Validation is a time-boxed proof. We use their data, define pass/fail criteria, and agree on acceptance rubrics. No vague win conditions. If we miss, we document why and either iterate or pivot.
+
+Speaker 1: How do you protect relational capital if things go sideways in Validation?
+
+Speaker 2: Be transparent early. If we hit a blocker, I share options: de-scope, add a lightweight integration, or move a dependency into phase two. I acknowledge the impact and restate the path to value. Credibility compounds when you own trade-offs.
+
+Speaker 3: Any tips for staying effective on the IC track without drifting into pseudo-management?
+
+Speaker 2: Anchor on outcomes. As an IC, your leverage is depth and clarity. You create momentum by writing crisp scopes, building relevant demos, and unblocking with context. You don’t need authority if your artifacts reduce uncertainty.
+
+Speaker 1: Speaking of artifacts, what do you actually deliver after Discovery?
+
+Speaker 2: A one-pager: problem statement, success metrics, scope, risks, assumptions, stakeholders, and a Tell Show Tell agenda. It becomes the contract for Validation.
+
+Speaker 3: How do you keep the sales team aligned without becoming the ticket taker?
+
+Speaker 2: Weekly 15-minute syncs. I share an updated scope tracker, open risks, and asks. I also equip sales with tight talk tracks grounded in Discovery—no new promises without a scope change.
+
+Speaker 1: Let’s talk demos. What makes a demo land versus flop?
+
+Speaker 2: Relevance beats flash. Use their vocabulary. Hide everything that’s not part of the story. Time-box rabbit holes. And narrate the business impact as you click—latency, accuracy, and effort saved.
+
+Speaker 3: How do you measure if relational capital is actually improving?
+
+Speaker 2: Look for signals: faster email turnaround, more candid risk sharing, invitations to internal threads, and clarity on the buying committee. When they volunteer constraints, you’ve earned trust.
+
+Speaker 1: Suppose we win Validation. What’s the clean handoff to implementation?
+
+Speaker 2: We finalize scope into a delivery plan, attach the acceptance rubric, and capture production guardrails. Then we run a Tell Show Tell for the delivery team: Tell the goals and constraints, Show the validated workflow, Tell the rollout milestones and owners.
+
+Speaker 3: Any anti-patterns you’ve learned the hard way?
+
+Speaker 2: Three: skipping Discovery to rush a demo, scoping to impress rather than to succeed, and treating Validation like a feature tour instead of a test with pass/fail criteria.
+
+Speaker 1: Final takeaways for ICs growing in Solutions Engineering?
+
+Speaker 2: Build relational capital intentionally, master Discovery questions, scope with hard edges, and communicate with Tell Show Tell. Your value is creating clarity that converts.
+
+Speaker 3: That was gold. I’m adopting the one-pager and the rubric this week.
+
+Speaker 1: Same here. Thanks for the playbook—and for keeping the focus on outcomes over theatrics. See you all next time on Team Sync.
+
