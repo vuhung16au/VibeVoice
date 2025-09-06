@@ -17,7 +17,7 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    "torch==2.7.1",
+    "torch==2.8.0",
     "accelerate==1.6.0",
     "transformers==4.51.3", # we develop this project on transformers==4.51.3, later version may not be compatible
     "llvmlite>=0.40.0",
